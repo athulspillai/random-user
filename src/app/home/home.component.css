@@ -1,0 +1,40 @@
+.bg {
+    opacity: 0.8;
+    width: 60rem;
+    border-radius: 17px;
+    box-shadow: 5px 6px 6px 2px rgba(0, 0, 0, 0.3);
+  }
+  
+  .rounded-circle {
+    border: 1px solid black;
+  }
+  .card {
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 6px 6px 2px #454749;
+    width: 600px;
+    margin: 0 auto;
+    border-radius: 17px;
+    box-shadow: 5px 6px 6px 2px rgba(0, 0, 0, 0.1);
+  }
+  .allergy {
+    position: relative;
+    bottom: 8px;
+    color: grey;
+  }
+  .head {
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  .bottom {
+    color: rgb(95, 93, 93);
+    font-size: 16px;
+  }
+  .btn:focus {
+    box-shadow: none;
+  }
+  .btn {
+    font-weight: bolder;
+  }
